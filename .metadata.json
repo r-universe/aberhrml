@@ -1,0 +1,14 @@
+[
+  {
+    "package": "forestControl",
+    "oncran": true
+  },
+  {
+    "package": "metaboData",
+    "oncran": true
+  },
+  {
+    "package": "metabolighteR",
+    "oncran": true
+  }
+]
