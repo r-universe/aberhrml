@@ -8,13 +8,3 @@
 	url = https://github.com/aberhrml/forestcontrol
 	shallow = true
 	registered = true
-[submodule "metaboData"]
-	path = metaboData
-	url = https://github.com/aberhrml/metabodata
-	shallow = true
-	registered = true
-[submodule "metabolighteR"]
-	path = metabolighteR
-	url = https://github.com/aberhrml/metabolighter
-	shallow = true
-	registered = true
