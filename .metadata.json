@@ -6,9 +6,5 @@
   {
     "package": "metaboData",
     "oncran": true
-  },
-  {
-    "package": "metabolighteR",
-    "oncran": true
   }
 ]
