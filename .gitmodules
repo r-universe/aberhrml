@@ -14,3 +14,7 @@
 [submodule "meatbolyseR"]
 	path = meatbolyseR
 	url = https://github.com/aberHRML/metabolyseR
+[submodule "msconverteR"]
+	path = msconverteR
+	url = https://github.com/wilsontom/msconverteR
+	registered = false
