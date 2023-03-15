@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "metaboData"]
-	path = metaboData
-	url = https://github.com/aberhrml/metabodata
-	shallow = true
-	registered = true
 [submodule "forestControl"]
 	path = forestControl
 	url = https://github.com/aberhrml/forestcontrol
+	shallow = true
+	registered = true
+[submodule "metaboData"]
+	path = metaboData
+	url = https://github.com/aberhrml/metabodata
 	shallow = true
 	registered = true
