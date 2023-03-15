@@ -1,10 +1,10 @@
 [
   {
-    "package": "forestControl",
+    "package": "metaboData",
     "oncran": true
   },
   {
-    "package": "metaboData",
+    "package": "forestControl",
     "oncran": true
   }
 ]
