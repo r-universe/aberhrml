@@ -34,6 +34,10 @@
 	path = mzAnnotation
 	url = https://github.com/aberHRML/mzAnnotation
 	registered = false
+[submodule "q3ML"]
+	path = q3ML
+	url = https://github.com/wilsontom/q3ML
+	registered = false
 [submodule "sRm"]
 	path = sRm
 	url = https://github.com/wilsontom/sRm

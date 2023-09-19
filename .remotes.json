@@ -22,5 +22,11 @@
     "url": "https://github.com/aberHRML/mzAnnotation",
     "via": ["assignments"],
     "from": "assignments"
+  },
+  {
+    "package": "q3ML",
+    "url": "https://github.com/wilsontom/q3ML",
+    "via": ["sRm"],
+    "from": "sRm"
   }
 ]
