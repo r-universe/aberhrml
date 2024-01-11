@@ -14,7 +14,19 @@
 [submodule "meatbolyseR"]
 	path = meatbolyseR
 	url = https://github.com/aberHRML/metabolyseR
+[submodule "metabolyseR"]
+	path = metabolyseR
+	url = https://github.com/jasenfinch/metabolyseR
+	registered = false
+[submodule "missForest"]
+	path = missForest
+	url = https://github.com/jasenfinch/missForest
+	registered = false
 [submodule "msconverteR"]
 	path = msconverteR
 	url = https://github.com/wilsontom/msconverteR
+	registered = false
+[submodule "mzAnnotation"]
+	path = mzAnnotation
+	url = https://github.com/aberHRML/mzAnnotation
 	registered = false

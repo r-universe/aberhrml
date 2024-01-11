@@ -1,8 +1,26 @@
 [
   {
+    "package": "metabolyseR",
+    "url": "https://github.com/jasenfinch/metabolyseR",
+    "via": ["assignments"],
+    "from": "assignments"
+  },
+  {
+    "package": "missForest",
+    "url": "https://github.com/jasenfinch/missForest",
+    "via": ["assignments", "metabolyseR"],
+    "from": "assignments"
+  },
+  {
     "package": "msconverteR",
     "url": "https://github.com/wilsontom/msconverteR",
     "via": ["grover"],
     "from": "grover"
+  },
+  {
+    "package": "mzAnnotation",
+    "url": "https://github.com/aberHRML/mzAnnotation",
+    "via": ["assignments"],
+    "from": "assignments"
   }
 ]
