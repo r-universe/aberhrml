@@ -2,6 +2,15 @@
 	path = .registry
 	url = https://github.com/aberhrml/aberhrml.r-universe.dev
 	branch = HEAD
+[submodule "assignments"]
+	path = assignments
+	url = https://github.com/aberHRML/assignments
 [submodule "binneR"]
 	path = binneR
 	url = https://github.com/aberHRML/binneR
+[submodule "grover"]
+	path = grover
+	url = https://github.com/aberHRML/grover
+[submodule "meatbolyseR"]
+	path = meatbolyseR
+	url = https://github.com/aberHRML/metabolyseR
