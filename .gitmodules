@@ -8,16 +8,21 @@
 [submodule "binneR"]
 	path = binneR
 	url = https://github.com/aberHRML/binneR
+[submodule "classyfireR"]
+	path = classyfireR
+	url = https://github.com/aberHRML/classyfireR
+[submodule "forestControl"]
+	path = forestControl
+	url = https://github.com/aberHRML/forestControl
 [submodule "grover"]
 	path = grover
 	url = https://github.com/aberHRML/grover
-[submodule "meatbolyseR"]
-	path = meatbolyseR
-	url = https://github.com/aberHRML/metabolyseR
+[submodule "metabolighteR"]
+	path = metabolighteR
+	url = https://github.com/aberHRML/metabolighteR
 [submodule "metabolyseR"]
 	path = metabolyseR
-	url = https://github.com/jasenfinch/metabolyseR
-	registered = false
+	url = https://github.com/aberHRML/metabolyseR
 [submodule "missForest"]
 	path = missForest
 	url = https://github.com/jasenfinch/missForest
@@ -25,8 +30,13 @@
 [submodule "msconverteR"]
 	path = msconverteR
 	url = https://github.com/wilsontom/msconverteR
-	registered = false
 [submodule "mzAnnotation"]
 	path = mzAnnotation
 	url = https://github.com/aberHRML/mzAnnotation
 	registered = false
+[submodule "sRm"]
+	path = sRm
+	url = https://github.com/wilsontom/sRm
+[submodule "slurmwiz"]
+	path = slurmwiz
+	url = https://github.com/wilsontom/slurmwiz
