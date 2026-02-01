@@ -23,21 +23,9 @@
 [submodule "metabolyseR"]
 	path = metabolyseR
 	url = https://github.com/aberHRML/metabolyseR
-[submodule "missForest"]
-	path = missForest
-	url = https://github.com/jasenfinch/missForest
-	registered = false
 [submodule "msconverteR"]
 	path = msconverteR
 	url = https://github.com/wilsontom/msconverteR
-[submodule "mzAnnotation"]
-	path = mzAnnotation
-	url = https://github.com/aberHRML/mzAnnotation
-	registered = false
-[submodule "q3ML"]
-	path = q3ML
-	url = https://github.com/wilsontom/q3ML
-	registered = false
 [submodule "sRm"]
 	path = sRm
 	url = https://github.com/wilsontom/sRm
